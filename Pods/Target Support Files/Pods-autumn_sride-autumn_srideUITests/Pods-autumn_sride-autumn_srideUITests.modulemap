@@ -1,0 +1,6 @@
+framework module Pods_autumn_sride_autumn_srideUITests {
+  umbrella header "Pods-autumn_sride-autumn_srideUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
